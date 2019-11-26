@@ -4,6 +4,8 @@ en este tutorial, explico como crear un workflow en el que puedes compilar tu we
 
 Sigue los pasos del video para poder configurar el workflow en tu proyecto gatsby.
 
+![Diagrama del workflow](./flow-chart.png)
+
 ## Recursos
 
 - Documentacion oficial Github Actions: https://github.com/features/actions
