@@ -8,8 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Bienvenido!</p>
+    <h1>Bienvenido!</h1>
     <p>Este es un proyecto de ejemplo de como deployar una web hecha con gatsby a netlify, usando Github actions :)</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
